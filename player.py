@@ -1,3 +1,6 @@
+# Need to initialise player and pull three cards from the deck. 
+# Etc.
+
 class Hand: 
     """
     A hand of playing cards: 

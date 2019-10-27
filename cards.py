@@ -45,6 +45,10 @@ class Deck:
         current_state = "Draw pile:{} Face up cards:{}".format(draw_pile_string, face_up_string)
         return current_state
 
+# Add method to pull just one card from either the draw pile or the face-up cards.
+
+# Add thing that happens when pile deck is empty.
+
 if __name__ == "__main__":
     
     deck = Deck()
